@@ -1,0 +1,8 @@
+client/config/prod.env.js
+client/config/dev.env.js
+client/build/*
+client/dist/*
+client/node_modules/*
+backend/layers/python.zip
+backend/layers/python/*
+.vscode/*
